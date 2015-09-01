@@ -1,0 +1,16 @@
+# built application files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Idea IDE files
+*.idea/
+*.iml
+
+*.DS_STORE
